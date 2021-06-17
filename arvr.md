@@ -53,7 +53,8 @@
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - 팀명 : DEV (Disaster Education with VR)
-- 내용 : VR 게임을 이용한 재난 사고 시 필요한 행동 교육 컨텐츠입니다.
+- 제목 : **Disastrous Situation Simulation Software Using VR**(**DSSSUVR**)
+- 내용 : VR 게임을 이용한 특정 재난 사고시(배 침몰, 화재, 지진, 항공기 등) 생존을 위해 필요한 행동을 교육하는 컨텐츠입니다.
 - 팀원 : **이병헌**, 서연석, 장희선, 김태현 
 - 담당 교수 : 이항찬 교수님
 - Youtube 동영상 <br/>
