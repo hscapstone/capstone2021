@@ -54,11 +54,11 @@
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
 - VR 게임을 이용한 재난 사고 시 필요한 행동 교육
 - [Github Link](https://github.com/hscapstone)
-- **김태현**, 이병헌, 서연석, 장희선 
+- **이병헌**, 서연석, 장희선, 김태현 
 - 이항찬 교수님
 - Youtube 동영상 <br/>
  [![제안 발표](https://img.youtube.com/vi/vNisqauU2_s/0.jpg)](https://www.youtube.com/watch?v=vNisqauU2_s)
-- [Youtube Live]() 
+- [Youtube Live](https://youtu.be/lmEnFhdHilA) 
 
 ### 45. 팀명, 제목
 - 이종인 
